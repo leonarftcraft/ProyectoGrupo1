@@ -1,5 +1,5 @@
 package Vista;
 
-public class prueva {
+public class prueba {
 
 }
